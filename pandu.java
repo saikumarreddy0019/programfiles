@@ -3,6 +3,9 @@ public class sai{
     int a = 40;
     int b = 50;
     int c = 60;
-    System .out .println(a-b)
-    System.out.println(a+b)
+    if a>b:
+    print(a)
+    else:
+    print(c)
+
 }

@@ -1,9 +1,7 @@
 body{
-    background-color: aliceblue;
-    font: optional;
-    font-style: italic;
-    font-size: 30p;
-    font-weight: 100;
-    font-stretch: expanded;
-    font: optional;
+   background-color: bisque;
+   background: fixed;
+   backface-visibility: hidden;
+   font: optional;
+   content: attr(art);
 }

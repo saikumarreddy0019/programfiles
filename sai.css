@@ -1,0 +1,7 @@
+body{
+   background-color: bisque;
+   background: fixed;
+   backface-visibility: hidden;
+   font: optional;
+   content: attr(art);
+}
